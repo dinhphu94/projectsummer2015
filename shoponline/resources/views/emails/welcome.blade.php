@@ -1,0 +1,1 @@
+<h1>Please checking your email to active account!<h1>
